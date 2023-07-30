@@ -17,7 +17,7 @@ const HomeNavbar = () => {
   };
 
   const handleLogout = () => {
-    navigate("/login");
+    navigate("/");
   };
   return (
     <>
